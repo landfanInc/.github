@@ -1,4 +1,4 @@
-# Welcome to <a href="https://app.land.fan/>Land.Fan</a> : First-Ever Decentralised Land Project with Real Income Stream on TON Blockchain
+# Welcome to Land.Fan : First-Ever Decentralised Land Project with Real Income Stream on TON Blockchain
 
 🏡 Landfan API empowers developers to seamlessly integrate web3 functionality for minting land NFTs into their projects. Unlock the potential of decentralized applications by leveraging Landfan's robust infrastructure designed specifically for minting, managing, and trading virtual lands on the blockchain.
 
